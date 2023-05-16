@@ -1,13 +1,7 @@
 Package: YSDM
-Title: Yet Another Species Distribution Modelling Package. Chachita agressor editition. 
+Title: Yet Another Species Distribution Modelling Package (Chachita Agressor Edition). 
 Version: 0.0.0.1000
-Authors@R: person("Marcelo", "Rivadeneira", , "mrivaden@gmail.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-           person("Jaime", "Villafaña", , "jaime.villafana@ceaza.cl", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-           person("Yusse", "Hernández-Mora", , "yusse.hernandez@ceaza.cl", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-           person("Hector", "Ramos", , "hector.ramos@ceaza.cl", role = c("aut", "cre"),
+Authors@R: person("PaleoLab", "Modelling Group", , "mrivaden@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Runs correlational SDMs with minimal steps
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
